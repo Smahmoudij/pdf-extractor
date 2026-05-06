@@ -1,0 +1,42 @@
+[
+  {
+    "document_type": "financial_report",
+    "description": "This document is a half-year financial report for Munich Re, detailing key financial figures and performance metrics for the first half of 2023.",
+    "entity": "Munich Re",
+    "time_period": "Q1\u20132 2023",
+    "file_name": "MunichRe-Half-Year-Financial-Report-2023-en.pdf",
+    "folder": "financial",
+    "file_path": "vdr_sample/financial/MunichRe-Half-Year-Financial-Report-2023-en.pdf",
+    "char_count": 233802
+  },
+  {
+    "document_type": "financial_report",
+    "description": "This document is the Group Annual Report for Munich Re, detailing key financial figures and performance metrics for the year 2023.",
+    "entity": "Munich Re",
+    "time_period": "2023",
+    "file_name": "MunichRe-Group-Annual-Report-2023-en.pdf",
+    "folder": "financial",
+    "file_path": "vdr_sample/financial/MunichRe-Group-Annual-Report-2023-en.pdf",
+    "char_count": 1091866
+  },
+  {
+    "document_type": "financial_report",
+    "description": "This document is the Annual Report for Great Lakes Insurance SE, detailing key financial figures and performance metrics for the year 2023.",
+    "entity": "Great Lakes Insurance SE",
+    "time_period": "2023",
+    "file_name": "GreatLakesHGBAnnualReport2023.pdf",
+    "folder": "leagal",
+    "file_path": "vdr_sample/leagal/GreatLakesHGBAnnualReport2023.pdf",
+    "char_count": 127843
+  },
+  {
+    "document_type": "insurance_policy",
+    "description": "This document is an insurance policy from RBC Life Insurance Company outlining the terms and conditions for life insurance coverage.",
+    "entity": "RBC Life Insurance Company",
+    "time_period": "July 1, 2025",
+    "file_name": "CMQ100.pdf",
+    "folder": "insurance",
+    "file_path": "vdr_sample/insurance/CMQ100.pdf",
+    "char_count": 46048
+  }
+]
